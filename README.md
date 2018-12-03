@@ -1,9 +1,13 @@
 ### README file for Programming for Data Analytics Project
 </br>
+
 ### Assignment: Data Set Simulation
+
 <br>
+
 ### Submitted By: Valerie Walsh G00364748 
 <br><br>
+
 ### What is this repository all about? 
 I have created this repository as apart of my ongoing studies within Data Analytics.
 </br>
